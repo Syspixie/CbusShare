@@ -8,6 +8,13 @@ Runs in the background as a Notification Area (aka System Tray) application:
 
 Compatible applications which support network CBUS connections include the FLiM Configuration Utility (FCU), [LayoutMesh](https://github.com/Syspixie/LayoutMesh), and JMRI.
 
+## Update
+
+| Date | Version | Details |
+| --- | --- | --- |
+| 01/02/2024 | [1.0.0-beta.2](https://github.com/Syspixie/CbusShare/releases/tag/v1.0.0-beta.2) | Corrected form closing and cancel changes.<br>Improved exception handling. |
+| 29/01/2024 | [1.0.0-beta.1](https://github.com/Syspixie/CbusShare/releases/tag/v1.0.0-beta.1) | Initial release. |
+
 ## Installation
 The application does not have its own installer.  The installation process is simply to download a zip file, and extract its contents to a suitable directory.  Shortcuts to the program may be created on the desktop, the taskbar, or anywhere else that makes sense.
 
